@@ -1,3 +1,5 @@
+[![CMake](https://github.com/anir0y/simulator/actions/workflows/cmake.yml/badge.svg)](https://github.com/anir0y/simulator/actions/workflows/cmake.yml)
+
 # CANBus Simulator
 
 By: Team AutoHackOS
