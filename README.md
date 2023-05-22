@@ -38,9 +38,3 @@ You can run the following commands to setup a virtual can interface
   sudo ip link set up vcan0
 ```
 
-# Contact Us
-
-Please feel free to contact us with suggestions, feedbacks, or contributions.
-
-- Primary Developer: Adhokshaj Mishra <me@adhokshajmishraonline.in>
-- Maintenance Team: Security @ AutoHackOS <security@autohackos.com>
