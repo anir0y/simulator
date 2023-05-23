@@ -2,7 +2,7 @@
 
 # CANBus Simulator
 
-By: Team AutoHackOS
+By: [Team AutoHackOS](https://autohackos.com)
 
 # Credits
 - [ICSim](https://github.com/zombieCraig/ICSim)
