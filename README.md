@@ -7,6 +7,13 @@ By: [Team AutoHackOS](https://autohackos.com)
 # Credits
 - [ICSim](https://github.com/zombieCraig/ICSim)
 
+# one liner bash
+
+```bash
+# run with sudo / root
+curl https://raw.githubusercontent.com/anir0y/simulator/main/automate.sh | bash
+```
+
 # Compiling
 You will need
 - can-utils
